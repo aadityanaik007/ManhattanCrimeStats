@@ -1,8 +1,6 @@
 # NYPD Crime Visualized
 
-**NYPD Crime Visualized** is a data visualization dashboard that provides insights into crime data in New York City. This project leverages D3.js for data visualization and Leaflet.js for interactive mapping.
-
----
+**NYPD Crime Visualized** is a data visualization dashboard that provides insights into crime data in New York City. This project leverages D3.js for data visualization and Leaflet.js for interactive mapping
 
 ## Features
 
