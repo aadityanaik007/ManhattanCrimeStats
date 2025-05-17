@@ -42,4 +42,4 @@ Ensure you have the following installed:
    `npm install`
 
 2. Start the Server
-   `node start`
+   `node server.js`
